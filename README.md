@@ -2,8 +2,7 @@
 
 ## OBJETIVO ✔
 
-### Criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
-depois disso retornar o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
+### Criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retornar o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
 
  - Se vitórias for menor do que 10 = Ferro
  - Se vitórias for entre 11 e 20 = Bronze
