@@ -2,7 +2,7 @@
 
 ## OBJETIVO ✔
 
-### Criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retornar o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
+### Criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retornar o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas).
 
  - Se vitórias for menor do que 10 = Ferro
  - Se vitórias for entre 11 e 20 = Bronze
@@ -14,7 +14,7 @@
 
 ## SAÍDA 💻
 
-Ao final deve se exibir uma mensagem:
+Ao final, deve-se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
 ## FEITO EM 10/01/2024
@@ -23,8 +23,7 @@ Ao final deve se exibir uma mensagem:
 
 ## OBJECTIVE ✔
 
-### Create a function that receives as a parameter the number of victories and losses of a player,
-After that, return the result to a variable, the ranked score must be done through the calculation (victories - defeats)
+### Create a function that receives as a parameter the number of victories and losses of a player, after that, return the result to a variable, the ranked score must be done through the calculation (victories - defeats).
 
   - If victories are less than 10 = Iron
   - If victories are between 11 and 20 = Bronze
@@ -37,6 +36,6 @@ After that, return the result to a variable, the ranked score must be done throu
 ## EXIT 💻
 
 At the end, a message should be displayed:
-"The Hero has a score of **{victoryScore}** and is at the level of **{level}**"
+"The Hero has a score of **{victoryScore}** and is at the level of **{level}**".
 
-## MADE IN 01/10/2024 
+### MADE IN 01/10/2024.
