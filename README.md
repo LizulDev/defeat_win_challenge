@@ -20,24 +20,24 @@ Ao final deve se exibir uma mensagem:
 
 ## FEITO EM 10/01/2024
 
-# CODE CHALLENGE WITH RANKED MATCHES - WIN SCORES 🤩
+# CODE CHALLENGE WITH RANKED MATCHES - VICTORY SCORES 🤩
 
 ## OBJECTIVE ✔
 
-### Create a function that receives as a parameter the number of wins and losses of a player,
-After that, return the result to a variable, the ranked score must be done through the calculation (wins - losses)
+### Create a function that receives as a parameter the number of victories and losses of a player,
+After that, return the result to a variable, the ranked score must be done through the calculation (victories - defeats)
 
-  - If wins are less than 10 = Iron
-  - If wins are between 11 and 20 = Bronze
-  - If wins are between 21 and 50 = Silver
-  - If wins are between 51 and 80 = Gold
+  - If victories are less than 10 = Iron
+  - If victories are between 11 and 20 = Bronze
+  - If victories are between 21 and 50 = Silver
+  - If victories are between 51 and 80 = Gold
   - If victories are between 81 and 90 = Diamond
   - If victories are between 91 and 100 = Legendary
-  - If wins are greater than or equal to 101 = Immortal
+  - If victories are greater than or equal to 101 = Immortal
 
 ## EXIT 💻
 
 At the end, a message should be displayed:
-"The Hero has a balance of **{saldoVitorias}** and is at the level of **{level}**"
+"The Hero has a score of **{victoryScore}** and is at the level of **{level}**"
 
-## DONE ON 01/10/2024 
+## MADE IN 01/10/2024 
